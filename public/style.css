@@ -1,5 +1,5 @@
 body {
-    background-image: url('images/IMG_0683.PNG'); /* Replace with your image path */
+    background-image: src('images/IMG_0683.PNG'); /* Replace with your image path */
     background-repeat: no-repeat; /* Prevents the image from repeating */
     background-size: cover; /* Scales the image to cover the entire background */
     background-position: center; /* Centers the image */
